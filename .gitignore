@@ -1,0 +1,14 @@
+# Игнорировать папку с полными входными данными
+
+RAE70_parsed_data/
+
+
+# Python кэш и виртуальные окружения
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Системные файлы macOS/Windows
+.DS_Store
+Thumbs.db
